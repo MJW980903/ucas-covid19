@@ -225,6 +225,7 @@ def send_email(sender, mail_passwd, receiver, subject, msg):
             print(ex)
 
 
+
 def report(username, password):
     s = requests.Session()
     s.verify = verify_cert  # 不验证证书
