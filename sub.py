@@ -27,6 +27,7 @@ user = "USERNAME"  # sep 账号
 passwd = r"PASSWORD"  # sep 密码
 api_key = "API_KEY"  # 可选， server 酱的通知 api key
 
+
 # 可选，如果需要邮件通知，那么修改下面五行 :)
 smtp_port = "SMTP_PORT"
 smtp_server = "SMTP_SERVER"
